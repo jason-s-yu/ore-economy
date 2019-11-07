@@ -1,0 +1,14 @@
+main: oreeconomy.OreEconomy
+name: OreEconomy
+author: DojmGubbeN
+version: 0.1
+description: Ore Economy is a ore based economy system.
+commands:
+  oreconomy:
+  pay:
+  balancetop:
+    aliases: [baltop]
+  eco:
+    aliases: [economy, econ]
+  balance:
+    aliases: [bal, money]
